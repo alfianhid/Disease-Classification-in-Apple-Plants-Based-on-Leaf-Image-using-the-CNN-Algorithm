@@ -1,0 +1,1 @@
+# Klasifikasi-Penyakit-Pada-Tanaman-Apel-Berdasarkan-Citra-Daun-Menggunakan-Algoritma-CNN
